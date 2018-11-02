@@ -1,7 +1,7 @@
 let imie = " Maciek ";
 let wiek = 14;
 let zamieszkanie = " Warszawa ";
-
+let ulica = "KeN"
 
 let uczen = {
     imie: " Jan ",
