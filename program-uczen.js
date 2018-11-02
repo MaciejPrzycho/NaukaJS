@@ -9,7 +9,7 @@ let uczen = {
     wiek: 17,
     adres: {
         miasto: " Warszawa ",
-        ulica: " abc "
+        ulica: " abc"
 
     }
 }
